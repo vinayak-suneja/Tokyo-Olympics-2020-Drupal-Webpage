@@ -17,7 +17,7 @@ The Tokyo Olympics site is a fully functional Drupal 9 site, designed to provide
 
 To install the Tokyo Olympics site on your local machine, follow these steps:
 
-1. Clone the repository: **`git clone https://github.com/username/tokyo-olympics-site.git`**
+1. Clone the repository: **`git clone https://github.com/vinayak-suneja/Big-Bazzar-Billing-System.git`**
 2. Navigate to the project directory: **`cd tokyo-olympics-site`**
 3. Install Drupal and its dependencies: **`composer install`**
 4. Create a new database for the site
