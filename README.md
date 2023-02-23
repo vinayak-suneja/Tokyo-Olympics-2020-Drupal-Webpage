@@ -17,7 +17,7 @@ The Tokyo Olympics site is a fully functional Drupal 9 site, designed to provide
 
 To install the Tokyo Olympics site on your local machine, follow these steps:
 
-1. Download the drupal file from the mega link and extract it in the server's "www" folder.
+1. Download the drupal file from the [mega link](https://mega.nz/file/iZBkELYT#Rn8FWDd1TWJssv-F_fGSfKNrr5fgfwq2q6vEA_47t14) and extract it in the server's "www" folder.
 2. Navigate to the project directory: **`cd drupal 9.1.4`**
 3. Install Drupal and its dependencies: **`composer install`**
 4. Create a new database for the site
